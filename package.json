@@ -11,7 +11,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/let-codes/let-rules.git"
+		"url": "git+https://github.com/let-codes/eslint-config.git"
 	},
 	"keywords": [
 		"eslint",
@@ -21,7 +21,7 @@
 	"author": "Krisztian Puska <pyx@pyx.space>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/let-codes/let-rules/issues"
+		"url": "https://github.com/let-codes/eslint-config/issues"
 	},
 	"devDependencies": {
 		"jest": "^23.1.0",
@@ -33,5 +33,5 @@
 		"eslint-plugin-prettier": "^2.6.0",
 		"eslint-plugin-react": "^7.8.2"
 	},
-	"homepage": "https://github.com/let-codes/let-rules"
+	"homepage": "https://github.com/let-codes/eslint-config"
 }
