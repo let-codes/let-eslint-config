@@ -1,0 +1,30 @@
+{
+	"name": "@let-codes/eslint-config",
+	"version": "0.0.1",
+	"description": "let.codes eslint-config",
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/let-codes/let-rules.git"
+	},
+	"keywords": [
+		"eslint",
+		"eslintconfig",
+		"config"
+	],
+	"author": "Krisztian Puska <pyx@pyx.space>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/let-codes/let-rules/issues"
+	},
+	"peerDependencies": {
+		"eslint": ">= 3",
+		"eslint-config-prettier": "^2.9.0",
+		"eslint-plugin-prettier": "^2.6.0",
+		"eslint-plugin-react": "^7.8.2"
+	},
+	"homepage": "https://github.com/let-codes/let-rules"
+}
