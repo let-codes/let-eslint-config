@@ -24,3 +24,4 @@ Extend it on your local `.eslintrc` file.
 
 - [ ] Review
 - [ ] Make adjustments
+- [ ] Write about the opinionated options listed
