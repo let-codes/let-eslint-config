@@ -13,6 +13,7 @@ module.exports = {
 	rules: {
 		"react/jsx-curly-spacing": [2, "always"],
 		"react/jsx-pascal-case": [2, { allowAllCaps: true }],
+		"react/react-in-jsx-scope": [0],
 		"array-bracket-spacing": ["error", "never"],
 		"arrow-spacing": ["error", { before: true, after: true }],
 		"block-spacing": ["error"],
