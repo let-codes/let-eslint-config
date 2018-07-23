@@ -12,6 +12,7 @@ module.exports = {
 	},
 	rules: {
 		"react/jsx-curly-spacing": [2, "always"],
+		"react/no-unescaped-entities": ["error", { "forbid": ['{', '}'] }]
 		"react/jsx-pascal-case": [2, { allowAllCaps: true }],
 		"react/react-in-jsx-scope": [0],
 		"array-bracket-spacing": ["error", "never"],
