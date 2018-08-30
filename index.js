@@ -15,6 +15,7 @@ module.exports = {
 		"react/no-unescaped-entities": ["error", { "forbid": ['{', '}'] }],
 		"react/jsx-pascal-case": [2, { allowAllCaps: true }],
 		"react/react-in-jsx-scope": [0],
+		"react/prop-types": [0],
 		"array-bracket-spacing": ["error", "never"],
 		"arrow-spacing": ["error", { before: true, after: true }],
 		"block-spacing": ["error"],
