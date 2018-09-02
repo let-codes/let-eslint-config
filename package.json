@@ -1,6 +1,6 @@
 {
 	"name": "@let-codes/eslint-config",
-	"version": "0.1.5",
+	"version": "0.1.6",
 	"description": "let.codes eslint-config",
 	"main": "index.js",
 	"scripts": {
@@ -29,9 +29,9 @@
 	},
 	"peerDependencies": {
 		"eslint": ">= 3",
-		"eslint-config-prettier": "^2.9.0",
-		"eslint-plugin-prettier": "^2.6.0",
-		"eslint-plugin-react": "^7.8.2"
+		"eslint-config-prettier": ">= 2",
+		"eslint-plugin-prettier": ">= 2",
+		"eslint-plugin-react": ">= 7"
 	},
 	"homepage": "https://github.com/let-codes/let-rules"
 }
