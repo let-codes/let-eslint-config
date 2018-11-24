@@ -1,7 +1,5 @@
 # @let eslint config
 
----
-
 ## Install
 
 ```
