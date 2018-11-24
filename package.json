@@ -1,5 +1,5 @@
 {
-	"name": "@let-codes/eslint-config",
+	"name": "@let/eslint-config",
 	"version": "0.1.7",
 	"description": "let.codes eslint-config",
 	"main": "index.js",
