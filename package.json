@@ -1,7 +1,7 @@
 {
 	"name": "@let/eslint-config",
 	"version": "0.1.7",
-	"description": "let.codes eslint-config",
+	"description": "@let eslint config",
 	"main": "index.js",
 	"scripts": {
 		"test": "jest"
@@ -18,7 +18,11 @@
 		"eslintconfig",
 		"config"
 	],
-	"author": "Krisztian Puska <pyx@pyx.space>",
+	"author": {
+		"name": "Krisztian Puska",
+		"email": "pyx@pyx.space",
+		"url": "https://pyx.space"
+	},
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/let-codes/let-rules/issues"
