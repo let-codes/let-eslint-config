@@ -28,7 +28,7 @@
 		"url": "https://github.com/let-codes/let-rules/issues"
 	},
 	"devDependencies": {
-		"jest": "^23.1.0",
+		"jest": "^23.6.0",
 		"prettier-eslint": "^8.8.2"
 	},
 	"peerDependencies": {
