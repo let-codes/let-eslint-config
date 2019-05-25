@@ -67,7 +67,7 @@ module.exports = {
 		"object-curly-spacing": ["error", "always"],
 		"object-property-newline": [0, "never"],
 		"padded-blocks": [0, "never"],
-		quotes: ["error", "double", { allowTemplateLiterals: true }],
+		quotes: ["error", "single", { allowTemplateLiterals: true }],
 		semi: ["error", "never"],
 		"semi-spacing": ["error", { before: false, after: true }],
 		"space-before-function-paren": ["error", "never"],
