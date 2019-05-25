@@ -1,6 +1,6 @@
 # @let-codes eslint config
 
-Eslint config for React projects. Extends `prettier` and `plugin:react/recommended`, pulls in `prettier` and `prettier-eslint`.
+Eslint config for React projects. Extends `prettier` and `plugin:react/recommended`, pulls in plugins for `prettier`, `react` and `babel`.
 
 ## Install
 
