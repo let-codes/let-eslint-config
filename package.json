@@ -1,6 +1,6 @@
 {
 	"name": "@let/eslint-config",
-	"version": "0.1.10",
+	"version": "0.2.0",
 	"description": "@let-codes eslint config",
 	"main": "index.js",
 	"scripts": {
