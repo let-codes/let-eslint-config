@@ -33,7 +33,7 @@
 		"prettier-eslint": "^9.0.1"
 	},
 	"devDependencies": {
-		"@let/eslint-config": "^0.2.1",
+		"@let/eslint-config": "latest",
 		"jest": "^25.2.7"
 	},
 	"homepage": "https://github.com/let-codes/let-eslint-config"
